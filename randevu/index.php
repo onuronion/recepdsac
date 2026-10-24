@@ -6,10 +6,10 @@ session_start();
 date_default_timezone_set('Europe/Istanbul');
 
 /* ---------- Veritabanı ---------- */
-$DB_HOST = 'sql103.infinityfree.com';
-$DB_NAME = 'if0_42795924_hair';
-$DB_USER = 'if0_42795924';
-$DB_PASS = 'PNk9jF8lBsT';
+$DB_HOST = '';
+$DB_NAME = '';
+$DB_USER = '';
+$DB_PASS = '';
 
 /* ---------- Ayarlar ---------- */
 $TEST_OTP     = '111111';
